@@ -1,0 +1,1 @@
+# ssh-set-up-command-to-run-in-Vs-code-terminal
